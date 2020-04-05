@@ -1,4 +1,4 @@
-package gost
+package hosts
 
 import (
 	"net"
